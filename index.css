@@ -116,7 +116,7 @@
   background-color: var(--color-yellowgreen-100);
   border: 1px solid var(--color-steelblue-100);
   box-sizing: border-box;
-  width: 250px;
+  width: 300px;
   height: 65px;
   overflow: hidden;
   display: flex;
@@ -162,7 +162,7 @@
   background-color: var(--color-yellowgreen-100);
   border: 1px solid var(--color-steelblue-100);
   box-sizing: border-box;
-  width: 250px;
+  width: 300px;
   height: 65px;
   overflow: hidden;
   display: flex;
