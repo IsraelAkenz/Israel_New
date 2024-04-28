@@ -3,7 +3,7 @@ body {
   line-height: normal;
 }
 
-:root { 
+:root {
   /* fonts */
   --display-3-regular: Inter;
   --font-montserrat: Montserrat;
